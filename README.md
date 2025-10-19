@@ -15,7 +15,6 @@ Hi, Welcome to my Github Profile. I’m Zayed Iqbal, a dedicated game developer 
 ---
 
 <div align="center">
-  <h3>🛠️ Favorite Tools & Technologies</h3>
   <table>
     <tr>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="70"/></td>
