@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <a href="mailto:thezayediqba@gmail.com"><img src="https://img.shields.io/badge/Gmail-D18536?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:thezayediqbal@gmail.com"><img src="https://img.shields.io/badge/Gmail-D18536?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>&nbsp;&nbsp;&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/_zayediqbal"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/thezayediqbal/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;
